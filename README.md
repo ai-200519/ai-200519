@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Aymane.;Software+%26+AI+Engineer.;Building+backend+systems;%26+AI+applications." alt="Typing SVG" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Backend+%26+AI+engineer;Learning+cloud+%26+distributed+systems;Code.+Create.+Solve.+Evolve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Learning+cloud+%26+distributed+systems.;Code.+Create.+Solve.+Evolve." alt="Typing SVG" />
 
 <br/>
 
